@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BarberMe0.01</string>
+    <string name="welcome_message">Welcome to BarberMe!</string>
+    <string name="initial_click">Get started!</string>
+    <string name="userOrPromoter">Are you a barber\nor just looking for a trim?</string>
+    <string name="imABarber">Barber!</string>
+    <string name="imAUser">Im not a barber!</string>
+    <string name="returningUserText">Login.</string>
+    <string name="requestName">What\'s your name!</string>
+    <string name="title_activity_nonbarber_sign_up">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
